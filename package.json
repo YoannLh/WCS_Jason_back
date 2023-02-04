@@ -1,0 +1,12 @@
+{
+  "name": "back_jason",
+  "version": "1.0.0",
+  "description": "backend of jason app",
+  "main": "server.js",
+  "repository": "https://github.com/YoannLh/WCS_Jason_back",
+  "author": "YoannLh",
+  "license": "MIT",
+  "dependencies": {
+    "prettier": "^2.8.3"
+  }
+}
